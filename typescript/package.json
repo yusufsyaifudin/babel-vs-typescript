@@ -1,0 +1,16 @@
+{
+  "name": "babel-vs-typescript_typescript",
+  "version": "0.0.1a1",
+  "description": "",
+  "main": "dist/Multiply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuf Syaifudin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "typescript": "^2.1.5"
+  }
+}
